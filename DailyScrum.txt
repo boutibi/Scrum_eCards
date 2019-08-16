@@ -1,0 +1,13 @@
+DAILy SCrum:
+
+ritual with efficiency character
+instead of potentially sitting together for several hours in weekly meetings and exchanging a variety of information, Scrum relies on a focused, daily exchange of information. The meeting takes place in a standing position, so as not to let any comfortably arise. The team members report - without interruption - after the row, whereby each participant is allowed only approx. 1 minute speaking time. therefore, dat meetings usually do not last longer than 10 minutes. no details, no discussion, no yawning.
+
+
+"WHAT i do, what my obstacle are"
+The same agenda always applies to the meeting: each team member reports on what he/she is currently working on and where possible problems lie that need to be solved. this allows synergies in cooperation to be identified and redundant work to be leased. Furthermore, in this way, members can be found who can support others when problems arise. daily scrums preferably take place in the morning in order to gain transparency about the upcoming activities of the takes.
+
+purely informal, no pre- or post-processing 
+Daily scrum does not require powerpoint presentations or elaborate preparations, the spoken word counts. to keep overhead low, no protocol is usually prepared. every team member should be able to answer the following question after the daily scrum: do i know what the other team members are doing?
+
+Translated with www.DeepL.com/Translator
