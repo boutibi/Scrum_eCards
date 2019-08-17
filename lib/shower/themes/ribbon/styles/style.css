@@ -254,7 +254,7 @@ BODY {
 
 /* Caption */
 .list .caption {
-	color:#3C3D40;
+	/* color:#3C3D40; itbsStefan */
 	text-shadow:0 1px 1px #8D8E90;
 	}
 	.list .caption h1 {
